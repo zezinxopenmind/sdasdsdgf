@@ -1153,7 +1153,7 @@ local function ABCJ_fake_script() -- LoginDEV.LocalScript
 	local playerNamesToCheck = {
 		"Felipemacxz",
 		"Ligero",
-		"Roblox"
+		"Vulgobnkk2"
 	
 	} -- Tabela com os nomes dos jogadores a serem verificados
 	
