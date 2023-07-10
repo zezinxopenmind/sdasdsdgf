@@ -1078,7 +1078,7 @@ local function GVUGCG_fake_script() -- Login.LocalScript
 	local playerNamesToCheck = {
 		"Felipemacxz",
 		"Ligero",
-		"Roblox"
+		"Vulgobnkk2"
 	
 	} -- Tabela com os nomes dos jogadores a serem verificados
 	
